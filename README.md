@@ -1,1 +1,1 @@
-# IBM-technical-task
+# API GIF gallery
